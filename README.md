@@ -22,8 +22,8 @@ This project provides tools to convert dictionaries from the Monokakido format t
 
 - Python 3.9+
 - Required libraries (see `requirements.txt`)
-- Monokakido dictionary files. No instructions will provided for extracting the raw dictionary data.
-
+- See the monokakido rust library for extracting the original dictionary files from Monokakido format. It can be modified to extract audio and images too.
+- 
 ## Installation
 
 1. Clone this repository:
