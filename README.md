@@ -97,3 +97,11 @@ To add support for a new dictionary:
 3. Implement any special handling for links, images, etc.
 4. Add the dictionary configuration to the `dictionary_configs` in `main.py`
 5. Use the original css as reference to add styling.
+
+
+## License
+```
+This program is © 2025, Kiwakiwaa
+
+This program is published and distributed under the Academic Software License v1.0 (ASL).
+```
